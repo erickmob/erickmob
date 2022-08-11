@@ -22,13 +22,11 @@ Java Software Engineer
 ### Socials
                   
                   
-                <p align="left">
-                          
-                      <a href="https://www.github.com/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="http://www.medium.com/erickmob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
@@ -36,4 +34,4 @@ Java Software Engineer
                       href="http://www.github.com/erickmob"><img src="https://github-readme-stats.vercel.app/api?username=erickmob&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erickmob's GitHub stats" /></a><a
                       href="http://www.github.com/erickmob"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=erickmob&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/erickmob"><img src="https://activity-graph.herokuapp.com/graph?username=erickmob&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/erickmob/spring-petclinic-microservices" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erickmob&repo=spring-petclinic-microservices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/erickmob/playground-spring-ms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erickmob&repo=playground-spring-ms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/erickmob/spring-cron-predictor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erickmob&repo=spring-cron-predictor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/erickmob/devDotFiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erickmob&repo=devDotFiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+                      href="http://www.github.com/erickmob"><img src="https://activity-graph.herokuapp.com/graph?username=erickmob&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></div>
